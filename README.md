@@ -52,16 +52,15 @@
 <h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='24px' height='24px'> </h2>
 
 ###
+
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=chaman-rawat&show_icons=true&locale=en&layout=compact" alt="chaman-rawat" />
-
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=chaman-rawat&show_icons=true&locale=en" alt="chaman-rawat" />
+    &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chaman-rawat&show_icons=true&locale=en&layout=compact" alt="chaman-rawat" />
 </div>
+<br/>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://komarev.com/ghpvc/?username=chaman-rawat&label=Profile%20views" alt="chaman-rawat" />
 </div>
-
-###
