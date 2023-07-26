@@ -9,13 +9,13 @@
 
 <div size='20px'> Hi! My name is Chaman Rawat. Thank You for taking the time to view my GitHub Profile 😊
 
-- 🔭 I’m currently working on **Web Devlopment, Github projects**.
+- 🔭 I’m currently working on **Github projects, Web Application**.
 
 - 🌱 I’m currently learning **Web Development, Data Structures and Algorithms, etc**.
 
 - 👯 I’m looking to collaborate on **projects, tech articles**.
 
-- 💬 Talk to me about **JavaScript, Competitive Programming, Open Source**.
+- 💬 Talk to me about **JavaScript, Competitive Programming, AI, Open Source**.
 
 ###
 
