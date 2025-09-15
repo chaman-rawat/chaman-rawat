@@ -9,11 +9,11 @@
 
 <div size='20px'> Hi! My name is Chaman Rawat. Thank You for taking the time to view my GitHub Profile 😊
 
-- 🔭 I’m currently working on **Projects based on Gen AI and Web Application**.
+- 🔭 I’m currently working on **Projects based on Agentic AI**.
 
 - 👯 I’m looking to collaborate on **Open Source Projects**.
 
-- 💬 Talk to me about **AI, Competitive Programming, and FOSS**.
+- 💬 Talk to me about **Foss, Privacy, Ricing**.
 
 ###
 
@@ -22,7 +22,6 @@
 ###
 
 <div align="center">
-  <a href= https://github.com/chaman-rawat?tab=repositories&q=&type=&language=bootstrap&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </a>
     <a href= https://github.com/chaman-rawat?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
     <a href= https://github.com/chaman-rawat?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
     <a href= https://github.com/chaman-rawat?tab=repositories&q=&type=&language=express&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg'> </a>
@@ -60,5 +59,5 @@
 ###
 
 <div align="left">
-  <img src="https://komarev.com/ghpvc/?username=chaman-rawat&label=Profile%20views" alt="chaman-rawat" />
+  <img src="https://komarev.com/ghpvc/?username=chaman-rawat&label=Visitors" alt="chaman-rawat" />
 </div>
